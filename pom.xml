@@ -10,8 +10,8 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <dl4j-master.version>1.0.0-M1.1</dl4j-master.version>
-        <nd4j.backend>nd4j-native</nd4j.backend>
-        <!--<nd4j.backend>nd4j-cuda-11.2</nd4j.backend>-->
+        <!--<nd4j.backend>nd4j-native</nd4j.backend>-->
+        <nd4j.backend>nd4j-cuda-11.2</nd4j.backend>
     </properties>
     
     <dependencies>
